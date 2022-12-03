@@ -1,0 +1,22 @@
+{
+	"name": "asd",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"scripts": {
+		"start": "nodemon ./server.js localhost 8080"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/CruderCypress98/mkm.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/CruderCypress98/mkm/issues"
+	},
+	"homepage": "https://github.com/CruderCypress98/mkm#readme",
+	"dependencies": {
+		"nodemon": "^2.0.20"
+	}
+}
